@@ -1,11 +1,16 @@
 {
     "Education": [
-        "Master",
-        "ITH"
+        "Master Degree in Automation at Hochschule Darmstadt, Germany",
+        "Bachelor Degree in Mechatronic at Instituto Tecnologico de Hermosillo, Mexico "
     ],
     "Past Experience": [
-        "Test"
+        "NEARSOFT ACADEMY (2019): Common Sense Kamino platform, Development of a report module.",
+        "NEARSOFT ACADEMY (2020): SkyTouch, Development Microservices and Queues.",
+        "OPEN EXPERIENCE (2017): Development of a robust sensor system for a drone."
     ],
-    "Tech Stack" : ["JS"],
-    "Contact" : [ahzamorano@gmail.com]
+    "Tech Stack" : ["Programming Languajes: Java, Javascript, Swift, Python",
+                    "Databases: MongoDB, MySQL, Postgres",
+                    "Frameworks: RabbitMQ, SpringBoot, React"],
+    "Languages" : ["Spanish -> Fluent","English -> Excellent","German -> Intermediate"],                
+    "Contact" : ["ahzamorano@gmail.com"]
 }

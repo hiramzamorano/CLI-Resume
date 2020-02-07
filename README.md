@@ -1,3 +1,3 @@
 # CLI-Resume
 
-My Resume - Hiram Zamorano
+My CLI Resume - Hiram Zamorano

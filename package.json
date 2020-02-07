@@ -11,5 +11,12 @@
     "inquirer": "^6.5.2"
   },
   "author": "Hiram Zamorano",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiramzamorano/CLI-Resume/issues"
+  },
+  "homepage": "https://github.com/hiramzamorano/CLI-Resume/blob/master/README.md",
+  "bin": {
+    "HiramZamoranoCV": "./index.js"
+  }
 }
