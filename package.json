@@ -1,5 +1,5 @@
 {
-  "name": "cli-resume",
+  "name": "cli-resume-hiramzamorano",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/hiramzamorano/CLI-Resume/blob/master/README.md",
   "bin": {
-    "cli-resume": "./index.js"
+    "cli-resume-hiramzamorano": "./index.js"
   }
 }
