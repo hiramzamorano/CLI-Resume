@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/hiramzamorano/CLI-Resume/blob/master/README.md",
   "bin": {
-    "HiramZamoranoCV": "./index.js"
+    "cli-resume": "./index.js"
   }
 }
